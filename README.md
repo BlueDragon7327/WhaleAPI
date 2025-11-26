@@ -1,6 +1,6 @@
 # WhaleAI 🐋
 
-### Fully Open Source Self-Hosted site for AI models such as GPT, Claude, and Gemini. (Powered by [MiraAI](https://discord.gg/wukzZbJvQj)
+### Fully Open Source Self-Hosted site for AI models such as GPT, Claude, and Gemini. (Powered by [MiraAI](https://discord.gg/wukzZbJvQj))
 
 
 
